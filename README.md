@@ -13,4 +13,4 @@ pip install -r requirements.txt
 python NIGAB_ProbioPred.py --file input.fasta
 ```
 
-* --file contains nucleotide fasta sequence *
+* --file contains nucleotide fasta sequence 
