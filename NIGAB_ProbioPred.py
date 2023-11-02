@@ -8,7 +8,6 @@ import itertools
 from collections import Counter
 import pandas as pd
 from pickle import load
-import matplotlib.pyplot as plt
 
 print('\n')
 print('''******************************
